@@ -1,5 +1,4 @@
 # Machine-Learning-Model-Deployment-with-Streamlit
-# 🍷 Wine Quality Prediction App
 
 A machine learning web app built with **Streamlit** that predicts the quality of wine based on its physicochemical features. This project includes data analysis, model training, an interactive web interface, and cloud deployment.
 
